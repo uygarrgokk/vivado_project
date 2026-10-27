@@ -1,0 +1,5 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+Read from address 5: 00
+Read from address 10 after write: ab
+$finish called at time : 70 ns : File "C:/Users/UYGARRGOKK/vivado_projects/project_1/project_1.srcs/sim_1/imports/ExampleSubmission/memory_tb.v" Line 54
